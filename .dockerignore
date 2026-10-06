@@ -1,0 +1,12 @@
+target/
+.git/
+.gitignore
+.idea/
+*.iml
+.vscode/
+.cursor/
+docs/
+PROGRESS.md
+README.md
+Dockerfile
+.dockerignore
